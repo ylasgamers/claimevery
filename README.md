@@ -15,6 +15,6 @@ python -m pip install -r requirements.txt
 ```
 python claimevery.py
 ```
-Input Your Address & Privatekey To Claim
+- Input Your Address & Privatekey To Claim
 [![YLAS GAMERS](https://img001.prntscr.com/file/img001/0HOFLD1LQDWOy1W0RK9Ucg.png)](https://github.com/ylasgamers/claimevery)
 - If Success Your Will See TX-ID Transaction
